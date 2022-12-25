@@ -7,4 +7,4 @@ def add(x,*y):
     print(c)
 
 
-add(3,5,4,56)
+add(4,5,4,66)
